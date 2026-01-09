@@ -33,32 +33,9 @@ Busco sempre aplicar boas práticas, organização de código e entender os conc
 
 ---
 
-## 📚 O que você vai encontrar aqui
-
-- Projetos em **Java**
-- APIs REST com **Spring Boot**
-- Estudos práticos de backend
-- Evolução constante de código e arquitetura
-
-Cada repositório representa uma etapa do meu aprendizado e evolução como desenvolvedor.
-
----
-
-## 🎯 Objetivo Profissional
-
-Busco minha **primeira oportunidade como Desenvolvedor Backend Júnior**, onde eu possa:
-
-- Evoluir tecnicamente
-- Aprender com profissionais experientes
-- Contribuir com código limpo e bem estruturado
-
----
-
 ## 📫 Contato
 
 💼 LinkedIn: **(adicione aqui o link do seu perfil)**  
 📧 Email: **(opcional)**  
 
 ---
-
-⭐ Sinta-se à vontade para explorar meus repositórios!
