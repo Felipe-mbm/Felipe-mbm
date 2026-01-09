@@ -35,7 +35,7 @@ Busco sempre aplicar boas práticas, organização de código e entender os conc
 
 ## 📫 Contato
 
-💼 LinkedIn: **(adicione aqui o link do seu perfil)**  
-📧 Email: **(opcional)**  
+💼 LinkedIn: **[Linkedin](https://www.linkedin.com/in/felipe-marques-2b13082a1/)**  
+📧 Email: **felipembmarques@gmail.com**  
 
 ---
