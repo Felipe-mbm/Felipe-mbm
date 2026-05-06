@@ -12,23 +12,6 @@ Atualmente estudando Ciência da Computação e construindo projetos voltados pa
 
 ---
 
-## 🚀 Projetos em destaque
-
-### 📚 Library System
-Sistema backend para gerenciamento de biblioteca desenvolvido com Java, Spring Boot e PostgreSQL.
-
-#### Funcionalidades:
-- API REST
-- CRUD de livros e usuários
-- Migrações com Flyway
-- Persistência com Spring Data JPA
-- Documentação com Swagger
-- Containerização com Docker
-
-🔗 Repositório: https://github.com/SEU_USERNAME/library-system
-
----
-
 ## 🛠️ Tecnologias e Ferramentas
 
 | Área | Tecnologias |
