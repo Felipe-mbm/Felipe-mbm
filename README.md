@@ -12,58 +12,14 @@
 
 Technologies I've used in my development career, either by courses, projects, or at work.
 
-<table>
-  <thead>
-    <tr>
-      <th>Area</th>
-      <th>Technologies</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Back-End</td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=java" title="Java" />
-        <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" />
-        <img src="https://skillicons.dev/icons?i=hibernate" title="Hibernate" />
-        <img src="https://skillicons.dev/icons?i=php" title="PHP" />
-      </td>
-    </tr>
-    <tr>
-      <td>Front-End</td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
-        <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
-        <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
-      </td>
-    </tr>
-    <tr>
-      <td>Databases</td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
-      </td>
-    </tr>
-    <tr>
-      <td>DevOps & Observability</td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
-        <img src="https://skillicons.dev/icons?i=git" title="Git" />
-        <img src="https://skillicons.dev/icons?i=grafana" title="Grafana" />
-        <img src="https://skillicons.dev/icons?i=prometheus" title="Prometheus" />
-        <img src="https://skillicons.dev/icons?i=aws" title="AWS CloudWatch" />
-      </td>
-    </tr>
-    <tr>
-      <td>Tools</td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=swagger" title="Swagger / OpenAPI" />
-        <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
-        <img src="https://skillicons.dev/icons?i=maven" title="Maven" />
-        <img src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Area | Technologies |
+|------|-------------|
+| **Back-End** | <img src="https://skillicons.dev/icons?i=java" height="40" title="Java"/> <img src="https://skillicons.dev/icons?i=spring" height="40" title="Spring Boot / Spring Data JPA"/> <img src="https://skillicons.dev/icons?i=hibernate" height="40" title="Hibernate"/> <img src="https://skillicons.dev/icons?i=php" height="40" title="PHP"/> |
+| **API & Docs** | ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white) |
+| **Front-End** | <img src="https://skillicons.dev/icons?i=html" height="40" title="HTML5"/> <img src="https://skillicons.dev/icons?i=css" height="40" title="CSS3"/> <img src="https://skillicons.dev/icons?i=js" height="40" title="JavaScript"/> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres" height="40" title="PostgreSQL"/> ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white) |
+| **DevOps & Observability** | <img src="https://skillicons.dev/icons?i=docker" height="40" title="Docker"/> <img src="https://skillicons.dev/icons?i=git" height="40" title="Git"/> <img src="https://skillicons.dev/icons?i=grafana" height="40" title="Grafana"/> <img src="https://skillicons.dev/icons?i=prometheus" height="40" title="Prometheus"/> ![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white) <img src="https://skillicons.dev/icons?i=aws" height="40" title="AWS CloudWatch"/> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=idea" height="40" title="IntelliJ IDEA"/> <img src="https://skillicons.dev/icons?i=postman" height="40" title="Postman"/> ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) |
 
 ---
 
