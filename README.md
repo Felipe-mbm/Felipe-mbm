@@ -1,4 +1,4 @@
-# Olá, eu sou Felipe 👋
+<img src="./banner.svg" alt="Banner Felipe Marques" width="100%"/>
 
 ### Desenvolvedor Backend Java | Spring Boot, APIs REST e PostgreSQL
 
