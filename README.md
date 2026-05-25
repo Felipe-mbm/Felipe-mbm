@@ -1,10 +1,9 @@
 <img src="./banner.svg" alt="Banner Felipe Marques" width="100%"/>
 
-### Desenvolvedor Backend Java | Spring Boot, APIs REST e PostgreSQL
+### Sobre mim
 
-Desenvolvedor Backend com foco no ecossistema Java e Spring Boot, interessado em arquitetura de software, APIs REST e desenvolvimento de soluções reais.
-
-Atualmente estudando Ciência da Computação e construindo projetos voltados para backend, boas práticas e sistemas escaláveis.
+Desenvolvedor Backend com foco em Java e Spring Boot, com interesse em arquitetura de software.
+Gosto de programar porque posso transformar ideias em coisas reais
 
 ---
 
