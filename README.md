@@ -47,9 +47,3 @@ Atualmente estudando Ciência da Computação e construindo projetos voltados pa
 </div>
 
 ---
-
-<div align="center">
-
-⚡ Sempre estudando backend, arquitetura e boas práticas no ecossistema Java.
-
-</div>
